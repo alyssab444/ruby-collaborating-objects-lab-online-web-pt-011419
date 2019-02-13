@@ -40,5 +40,5 @@ class Artist
     puts @songs.collect {|x| x.name}
   end
 
-  end
+
 end
