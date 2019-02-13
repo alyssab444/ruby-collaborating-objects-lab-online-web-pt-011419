@@ -8,6 +8,9 @@ class Artist
       @songs<< song 
       
     end 
+    def song 
+      @song 
+    end 
   
   
   
