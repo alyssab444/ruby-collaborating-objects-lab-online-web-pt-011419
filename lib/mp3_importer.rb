@@ -3,6 +3,7 @@ class MP3Importer
   def initialization(path)
     @path= path
   end 
+  def 
   
   
   #parses a directory of files 
