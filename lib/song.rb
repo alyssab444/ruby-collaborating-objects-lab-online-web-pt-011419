@@ -5,7 +5,9 @@ class Song
     song.title= filename.split("-")[1]
     song 
   end 
-  def artist 
+  def artist(artist_name) 
+    
+    
     
   end 
   
