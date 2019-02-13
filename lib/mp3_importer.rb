@@ -1,4 +1,10 @@
 class MP3Importer 
+  attr_accessor :path 
+  def initialization(path)
+    @path= path
+  end 
+  
+  
   #parses a directory of files 
   #send the filenames to a song class 
   #creates a libray of music with artists that are unique
