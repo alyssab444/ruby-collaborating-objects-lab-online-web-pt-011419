@@ -5,7 +5,8 @@ class Song
     song.title= filename.split("-")[1]
     song 
   end 
-  #parse a filename to find the song name and artist name
+  def artist 
+  end 
   
   
   
